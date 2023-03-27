@@ -1,2 +1,2 @@
 # MachineLearninginR
-R scripts for Machine Learning techniques.
+R scripts for Machine Learning applications.
